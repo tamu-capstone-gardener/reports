@@ -93,7 +93,7 @@ app/controllers/sensors_controller.rb: 93.33% coverage
 - **Lines missed**: 77
 - **Average hits per line**: 61.75
 
-![Coverage Report Screenshot](./team/assets/coverage_report.png)
+![Coverage Report Screenshot](./assets/coverage_report.png)
 
 ### Coverage by Component
 - Controllers: 90%+ coverage
